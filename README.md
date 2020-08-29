@@ -1,4 +1,10 @@
-### Hi there 👋
+### olá 👋
+
+Meu nome é katheryn, eu estou atulmente estudando python, ultilizo este perfil para compartilhar os conhecimentos dos meus estudos  
+
+### 📫 como me contactar
+
+katherynfreira7625@gmail.com
 
 <!--
 **katherynfreira/katherynfreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
